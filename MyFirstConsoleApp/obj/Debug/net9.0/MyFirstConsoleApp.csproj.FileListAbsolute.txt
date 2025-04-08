@@ -1,0 +1,14 @@
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.exe
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.deps.json
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\net9.0\MyFirstConsoleApp.pdb
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\refint\MyFirstConsoleApp.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.pdb
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\net9.0\ref\MyFirstConsoleApp.dll

@@ -1,0 +1,14 @@
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\bin\Debug\net9.0\Exo3.exe
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\bin\Debug\net9.0\Exo3.deps.json
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\bin\Debug\net9.0\Exo3.runtimeconfig.json
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\bin\Debug\net9.0\Exo3.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\bin\Debug\net9.0\Exo3.pdb
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.AssemblyInfoInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.AssemblyInfo.cs
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.csproj.CoreCompileInputs.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\refint\Exo3.dll
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.pdb
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\Exo3.genruntimeconfig.cache
+C:\Users\s_13459_gamedev\RiderProjects\MyFirstConsoleApp\Exo3\obj\Debug\net9.0\ref\Exo3.dll
